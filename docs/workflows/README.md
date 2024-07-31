@@ -9,3 +9,4 @@ This directory contains our team's workflow guidelines. These documents outline 
 - [Commit Guidelines](commits.md)
 - [Pull Request Process](pull-requests.md)
 - [Glossary](glossary.md)
+- [Definition of Done](definition-of-done.md)
