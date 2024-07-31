@@ -54,7 +54,7 @@ Example of Task Flow:
 
    - Assign the task to yourself if not already assigned.
 
-   ![alt text](image-1.png)
+   ![alt text](image-3.png)
 
 
 2. Branch Creation:
@@ -86,31 +86,8 @@ Example of Task Flow:
      <footer>
      ```
 
-   - Type: Describes the kind of change (see [Commit Types](#commit-types) in the Glossary)
-   ...
+   - Refer to the [Commits](#commit-types-with-examples) for more information on best practices.
 
-   Example of a good commit message:
-   ```
-   feat(auth): Add user login form
-
-   - Create HTML structure for the login form
-   - Implement form validation using JavaScript
-   - Style the form using CSS
-
-   This commit introduces a new login form to improve user authentication.
-   The form includes client-side validation to enhance user experience.
-
-   Closes #42
-   ```
-
-   For smaller commits, a shorter format is acceptable:
-   ```
-   fix(login): Correct email validation regex
-   ```
-   
-   Refer to the [Glossary](#glossary) for more information on commit types and their usage.
-
-...
 
 4. Pushing Changes:
    - Push your changes to the remote branch:
