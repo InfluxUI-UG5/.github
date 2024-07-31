@@ -1,4 +1,4 @@
-# Sprint Planning and Backlog Management
+# Sprint Planning, Review and Retrospective
 
 ## Product Backlog
 
@@ -42,3 +42,11 @@ Example of Task Flow:
      1. Task: "Implement basic email/password authentication" (moved to "To Do")
      2. Task: "Implement OAuth integration" (stays in "Sprint Backlog")
    - The OAuth task is only moved to "To Do" once the basic authentication is completed.
+```
+
+## Sprint Review and Retrospective
+   - At the end of the sprint:
+     - Review completed user stories and tasks.
+     - Merge the sprint branch into the main branch.
+     - Create a new sprint branch for the next sprint.
+     - Move incomplete user stories back to the Product Backlog or to the next sprint's backlog, as decided by the team.

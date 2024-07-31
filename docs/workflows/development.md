@@ -3,13 +3,7 @@
 1. Starting Work:
    - Choose a task from the "To Do" column on the project board.
    - Convert the task into an issue and choose the appropriate repository.
-
-   ![alt text](image.png)
-
    - Assign the task to yourself if not already assigned.
-
-   ![alt text](image-3.png)
-
 
 2. Branch Creation:
    - Create a new branch for your task. Make sure to select the current sprint branch as the branch source.
@@ -22,26 +16,9 @@
    git checkout -b feature/42-add-login-form
    ```
 
-![alt text](image-2.png)
-
-
 3. Development:
    - Make changes following the project's coding standards.
-   - Commit frequently according to the commit message guidelines.
-...
-
-### Commit Message Guidelines:
-   - Structure your commit message as follows:
-     ```
-     <type>(<scope>): <subject>
-
-     <body>
-
-     <footer>
-     ```
-
-   - Refer to the [Commits Document](commits.md) for more information on best practices.
-
+   - Commit frequently according to the [Commit Guidelines](commits.md).
 
 4. Pushing Changes:
    - Push your changes to the remote branch:
